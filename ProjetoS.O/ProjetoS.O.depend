@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1655677643 source:c:\users\ritha\onedrive\documentos\wando\projetos.o\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1655676898 c:\users\ritha\onedrive\documentos\wando\projetos.o\lista.h
+
+1655774735 source:c:\users\ritha\onedrive\documentos\wando\projetos.o\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<math.h>
+	"lista.h"
+	<locale.h>
+
